@@ -2,4 +2,4 @@ flask==3.1.0
 sqlalchemy==2.0.41
 mysql-connector-python==9.2.0
 azure-identity==1.23.0
-azure-keyvault-secret==4.2.0
+azure-keyvault-secret==4.10.0
